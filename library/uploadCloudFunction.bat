@@ -1,0 +1,1 @@
+"D:\wxdev\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-9gtm767d5298a59a --n quickstartFunctions --r --project "D:\毕设\毕设图书\library" --report_first --report
